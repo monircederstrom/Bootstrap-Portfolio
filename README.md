@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Week 2 Homework
+Basic bootstrap will add more on next push
+
